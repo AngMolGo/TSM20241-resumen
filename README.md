@@ -1,6 +1,6 @@
 ## Contenido
 
-- [¿Qué es ROS?](##¿Qué_es_ROS?)
+- [¿Qué es ROS?](#¿Qué_es_ROS?)
 
 ## ¿Qué es ROS?
 
