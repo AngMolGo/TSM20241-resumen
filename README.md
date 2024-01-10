@@ -1,9 +1,9 @@
 ## Contenido
 
 - [¿Qué es ROS?](#qué-es-ros)
-- [Ejemplo](#Ejemplo)
+- [Ejemplo](##Ejemplo)
 
-# ¿Qué es ROS?
+## ¿Qué es ROS?
 
 ROS (Robot Operating System) es un conjunto de bibliotecas y herramientas de código abierto diseñadas para ayudar a los desarrolladores a crear software para robots. Contrario a lo que su nombre sugiere, ROS no es realmente un sistema operativo en el sentido tradicional, sino más bien un middleware que proporciona servicios comunes necesarios para el desarrollo de software robótico.
 ### ¿Por qué ROS?
@@ -19,6 +19,6 @@ Organiza el código en paquetes, lo que facilita la modularidad y la reutilizaci
 
 Aunque la mayoría de los nodos en ROS están escritos en C++ o Python, ROS también admite otros lenguajes de programación.
 
-# Ejemplo
+## Ejemplo
 
 Esto es un ejemplo, a ver si funciona
