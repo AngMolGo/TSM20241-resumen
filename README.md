@@ -19,6 +19,6 @@ Organiza el código en paquetes, lo que facilita la modularidad y la reutilizaci
 
 Aunque la mayoría de los nodos en ROS están escritos en C++ o Python, ROS también admite otros lenguajes de programación.
 
-#Ejemplo
+# Ejemplo
 
 Esto es un ejemplo, a ver si funciona
