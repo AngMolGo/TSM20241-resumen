@@ -1,7 +1,7 @@
 ## Contenido
 
 - [¿Qué es ROS?](#qué-es-ros)
-- [Ejemplo](##Ejemplo)
+- [Ejemplo](#ejemplo)
 
 ## ¿Qué es ROS?
 
